@@ -57,3 +57,4 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
  
 
 The model training may take time to train and hence you can use Google colab.
+email : singh_ashish710@yahoo.co.in
